@@ -3,7 +3,7 @@ DE-QT
 
 Data Evolution and Quality Tracking of Scientific Data Sets
 
-1) Project Description
+<b>1) Project Description</b> <br>
 The project is about measuring data quality of a specific data set – the data set of the
 BRITICE-CHRONO project, constraining rates and style of marine-influenced ice sheet decay.
 The School of Geographical and Earth Sciences at Glasgow University is currently involved
@@ -29,7 +29,7 @@ will be manageable. An additional web page will be created to the Fiona's web-ba
 order to visualize the data in metrics that will help the researchers to see how the data has been
 changing over time and the variation of the different data types.
 
-2) Running the prototype
+<b>2) Running the prototype </b><br>
 You can see how to run the prototype by watching the uploaded video.
 Also, here is an  explanation of how you can run it:
  - download the DQDV folder - it contains the whole ptototype;
@@ -41,5 +41,5 @@ Also, here is an  explanation of how you can run it:
  - after that go to the HTMLFiles folder and open - coordinates.html, bearing_inclination.html, sample.html, osl_sample.html,    tcn_sample or core_details.html; The other files are additional functions to these files;
  - on the html files you will see all of the metrices and charts;
  
-3) Dissertation
+<b>3) Dissertation </b><br>
 In the Report of the project you will find more details for each part of the metrices and graphs.
